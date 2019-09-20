@@ -8,7 +8,7 @@ It’s  a threefold problem:
 
 ## Data Source
 UCI - Spam Spambase Data Set: https://archive.ics.uci.edu/ml/datasets/Spambase   
-Collection of spam e-mails came from postmaster and individuals 
+Collection of spam e-mails came from postmaster and individuals    
 Collection of non-spam e-mails came from filed work and personal e-mails
 
 ---
