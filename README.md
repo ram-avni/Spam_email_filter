@@ -1,7 +1,6 @@
-#### Spam Email Classification
+## Spam Email Classification
 
-
-The Problem
+# The Problem
 It’s  a threefold problem:
 It clutters our inbox
 Fraudulent emails 
