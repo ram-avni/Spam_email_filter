@@ -110,7 +110,11 @@ Score:
 
 Markup : ```javascript
          ```
-
+ Markup : * Bullet list
+               * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+          
  Markup : * Filters rely on word probabilities:
  - Initially calculates the probabilities of ham and spam classes.
   - Next, calculates the probabilities of ham and spam for each word.
