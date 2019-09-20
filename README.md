@@ -7,8 +7,8 @@ It’s  a threefold problem:
 * Risk of losing the job interview email which got misclassified  in the spam folder
 
 ## Data Source
-UCI - Spam Spambase Data Set: https://archive.ics.uci.edu/ml/datasets/Spambase
-<b>Collection of spam e-mails came from postmaster and individuals 
+UCI - Spam Spambase Data Set: https://archive.ics.uci.edu/ml/datasets/Spambase   
+Collection of spam e-mails came from postmaster and individuals 
 Collection of non-spam e-mails came from filed work and personal e-mails
 
 ---
