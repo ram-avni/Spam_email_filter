@@ -108,16 +108,14 @@ Score:
 
 ## How does Google filter spam?
 
-Markup : ```javascript
-         ```
- Markup : * Bullet list
+Markup : * Bullet list
                * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
           
  Markup : * Filters rely on word probabilities:
  - Initially calculates the probabilities of ham and spam classes.
-  - Next, calculates the probabilities of ham and spam for each word.
+ - Next, calculates the probabilities of ham and spam for each word.
 - Constantly collecting data - history and feedback
 - Text filter and Client  filter
 - Introduction of new AI algorithms resulted in aggressive filtering
