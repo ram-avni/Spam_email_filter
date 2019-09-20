@@ -51,7 +51,7 @@ Score:
 
 ---
 
-Model Comparison
+## Model Comparison
 ![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/Model%20comparison.png)
 
 ---
@@ -76,16 +76,16 @@ Model Comparison
 
 ---
 
-Most important criterion - Precision
+## Most important criterion - Precision
 ![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/precision.png)
 ---
 
-Chosen Model:  Random Forest
+## Chosen Model:  Random Forest
 ![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/Chosen%20model.png)
 
 ---
 
-Random Forest - Visuals
+## Random Forest - Visuals
 ![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/RF%20-%20cm.png)
 ![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/RF%20-%20auc.png)
 
@@ -102,9 +102,8 @@ Random Forest - Visuals
 
 ---
 
-Random Forest:  Features Importance
+## Random Forest:  Features Importance
 ![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/RF%20-%20features%20importance.png)
-![]()
 ---
 
 ## How does Google filter spam?
