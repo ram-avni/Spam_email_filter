@@ -2,11 +2,11 @@
 
 ## The Problem
 It’s  a threefold problem:
-It clutters our inbox
-Fraudulent emails 
-Risk of losing the job interview email which got misclassified  in the spam folder
+* It clutters our inbox
+* Fraudulent emails 
+* Risk of losing the job interview email which got misclassified  in the spam folder
 Data Source
-UCI - Spam Spambase Data Set 
+UCI - Spam Spambase Data Set: https://archive.ics.uci.edu/ml/datasets/Spambase
 Data set assembled at HP 
 Collection of spam e-mails came from postmaster and individuals 
 Collection of non-spam e-mails came from filed work and personal e-mails
