@@ -108,8 +108,10 @@ Score:
 
 ## How does Google filter spam?
 
- Markup :
-- Filters rely on word probabilities:
+Markup : ```javascript
+         ```
+
+ Markup : * Filters rely on word probabilities:
  - Initially calculates the probabilities of ham and spam classes.
   - Next, calculates the probabilities of ham and spam for each word.
 - Constantly collecting data - history and feedback
