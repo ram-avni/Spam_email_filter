@@ -52,7 +52,7 @@ Score:
 
 
 <p align="center">
-  <img width="460" height="460" src="http://github.com/ram-avni/prj_3_classification/blob/master/visuals/NB%20-%20cm.png">
+  <img width="460" height="460" src="https://github.com/ram-avni/prj_3_classification/blob/master/visuals/NB%20-%20cm.png">
 </p>
 
 
