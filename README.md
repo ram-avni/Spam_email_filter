@@ -126,7 +126,7 @@ Score:
 ## How does Google filter spam?
           
 * Filters rely on word probabilities:
-   * Initially calculates the probabilities of ham and spam classes.
+  * Initially calculates the probabilities of ham and spam classes.
   - Next, calculates the probabilities of ham and spam for each word.
    - Constantly collecting data - history and feedback
 - Text filter and Client  filter
