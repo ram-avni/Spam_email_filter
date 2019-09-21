@@ -58,10 +58,10 @@ Score:
 ---
 
 ## Model Comparison
-![](https://)
+
 
 <p align="center">
-  <img width="460" height="460" src="https://github.com/ram-avni/prj_3_classification/blob/master/visuals/Model%20comparison.png">
+  <img width="520" height="420" src="https://github.com/ram-avni/prj_3_classification/blob/master/visuals/Model%20comparison.png">
 </p>
 
 ---
@@ -91,7 +91,10 @@ Score:
 ---
 
 ## Chosen Model:  Random Forest
-![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/Chosen%20model.png)
+
+<p align="center">
+  <img width="520" height="420" src="https://github.com/ram-avni/prj_3_classification/blob/master/visuals/Chosen%20model.png">
+</p>
 
 ---
 
