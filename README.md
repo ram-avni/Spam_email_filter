@@ -55,14 +55,14 @@ Score:
   <img width="460" height="460" src="https://github.com/ram-avni/prj_3_classification/blob/master/visuals/NB%20-%20auc.png">
 </p>
 
-
-![]()
-
-
 ---
 
 ## Model Comparison
-![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/Model%20comparison.png)
+![](https://)
+
+<p align="center">
+  <img width="460" height="460" src="https://github.com/ram-avni/prj_3_classification/blob/master/visuals/Model%20comparison.png">
+</p>
 
 ---
 
