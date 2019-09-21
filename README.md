@@ -45,7 +45,16 @@ Score:
 ---
 
 ## Base Model:  Naive Bayes - Visuals
-![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/NB%20-%20cm.png)
+
+<p align="center">
+  <img width="460" height="460" src="http://github.com/ram-avni/prj_3_classification/blob/master/visuals/NB%20-%20cm.png/460/460">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
+
 ![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/NB%20-%20auc.png)
 
 
