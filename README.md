@@ -87,7 +87,11 @@ Score:
 ---
 
 ## Most important criterion - Precision
-![](https://github.com/ram-avni/prj_3_classification/blob/master/visuals/precision.png)
+
+<p align="center">
+  <img width="420" height="120" src="https://github.com/ram-avni/prj_3_classification/blob/master/visuals/precision.png">
+</p>
+
 ---
 
 ## Chosen Model:  Random Forest
